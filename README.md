@@ -9,7 +9,7 @@
 <p><strong>- Administrator</strong> <br /><br /><span style="color: #808080;">username: admin </span><br /><span style="color: #808080;"><br />password: 000000</span></p>
 <p><strong><br />- Customer<br /></strong>&nbsp;<br /><span style="color: #808080;">you can make a registration. <br />The important thing is that the registered user is approved with admin</span></p>
 <p>&nbsp;</p>
-<h2><strong>Take Action</strong></h2>
+<h2><strong>Take Action</strong></h2>dsfdfwsd
 <p><strong>- Requirements</strong></p>
 <p><span style="color: #808080;">Java SE Development Kit</span></p>
 <p><span style="color: #808080;">Warning: JDK Compliance Minimum: 1.8 (8.0)<br /><br /></span></p>
